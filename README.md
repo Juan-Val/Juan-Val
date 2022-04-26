@@ -5,7 +5,7 @@
 
 </em></p>
 
-[![Linkedin: Juan Valencia](https://img.shields.io/badge/-Juan-val-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-valencia-679605230/)](https://www.linkedin.com/in/juan-valencia-679605230/)
+[![Linkedin: Juan Valencia](https://img.shields.io/badge/-Juanval-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/juan-valencia-679605230/)](https://www.linkedin.com/in/juan-valencia-679605230/)
 [![GitHub Juan Valencia ](https://img.shields.io/github/followers/Juan-Val?label=follow&style=social)](https://github.com/Juan-Val)
 
 
